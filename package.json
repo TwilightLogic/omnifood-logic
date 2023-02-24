@@ -1,0 +1,16 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Logic",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-webmanifest": "^2.8.3",
+    "parcel": "^2.8.3"
+  }
+}
