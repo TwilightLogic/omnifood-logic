@@ -2,5 +2,4 @@ node_modules
 .vscode
 dist
 .parcel-cache
-.prettierrc
 .DS_Store
